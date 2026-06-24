@@ -1,16 +1,68 @@
-## Hi there 👋
+# Fahad Hafeez
 
-<!--
-**Fahad-Hafeez/Fahad-Hafeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Data Science Undergraduate @ UCLan
 
-Here are some ideas to get you started:
+Independent ML Researcher
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Open Source Contributor
+
+Co-Founder @ Khwand
+
+
+## About Me
+
+I work on
+
+• Machine Learning
+
+• LLMs
+
+• Artificial Intelligence
+
+• Cybersecurity
+
+• Open Source
+
+• Research
+
+• AI Startups
+
+
+
+## Current Focus
+
+🔭 Phishing Detection Research
+
+🔭 Building Khwand
+
+🌱 Learning MLOps
+
+🌱 Learning Rust
+
+
+
+## Publications
+
+- Significance-Aware Benchmarking
+- Malware Classification
+- Phishing Detection
+
+
+## Open Source
+
+Merged contribution to pandas
+
+Hugging Face:
+https://huggingface.co/fahadhafeezofficial
+
+
+## Contact
+
+LinkedIn:
+https://linkedin.com/in/fahadhafeezofficial
+
+X/Twitter:
+https://www.x.com/fahadhafeezoff
+
+Email:
+fahadhafeez650@gmail.com
