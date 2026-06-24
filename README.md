@@ -1,3 +1,7 @@
+<p align="center">
+<img src="LINK_HERE">
+</p>
+
 # Fahad Hafeez
 
 AI & Data Science Undergraduate @ UCLan
