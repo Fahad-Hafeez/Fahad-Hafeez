@@ -1,5 +1,5 @@
 <p align="center">
-<img src="WhatsApp Image 2026-06-05 at 19.11.46.jpeg">
+<img src="github_banner.png">
 </p>
 
 # Fahad Hafeez
