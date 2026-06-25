@@ -1,5 +1,6 @@
 <p align="center">
-<img src="github_banner.png">
+  <img src="./github_banner_light.png#gh-light-mode-only" alt="Light Banner" width="100%">
+  <img src="./github_banner_dark.png#gh-dark-mode-only" alt="Dark Banner" width="100%">
 </p>
 
 # Fahad Hafeez
